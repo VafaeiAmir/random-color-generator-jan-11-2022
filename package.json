@@ -1,6 +1,7 @@
 {
   "name": "random-emoji-generator-jan-11-2022",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "repository": "https://github.com/VafaeiAmir/random-emoji-generator-jan-11-2022.git",
   "author": "AmirVafaei <amirvafaei.contact@gmail.com>",
@@ -34,5 +35,9 @@
     "@typescript-eslint/parser": "5.9.0",
     "eslint-plugin-import": "2.25.4",
     "eslint-plugin-react": "7.28.0"
+  },
+  "dependencies": {
+    "emoji-mart": "^3.0.1",
+    "node-emoji": "^1.11.0"
   }
 }

@@ -1,3 +1,3 @@
-# node.js random emoji generator
+# node.js random color generator
 
-generates random emojis optionaly based on inputs
+Generate Random colors, optionally based on an inputs
