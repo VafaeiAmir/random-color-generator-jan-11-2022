@@ -1,9 +1,9 @@
 {
-  "name": "random-emoji-generator-jan-11-2022",
+  "name": "random-color-generator-jan-11-2022",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
-  "repository": "https://github.com/VafaeiAmir/random-emoji-generator-jan-11-2022.git",
+  "repository": "https://github.com/VafaeiAmir/random-color-generator-jan-11-2022.git",
   "author": "AmirVafaei <amirvafaei.contact@gmail.com>",
   "license": "MIT",
   "devDependencies": {
@@ -37,7 +37,8 @@
     "eslint-plugin-react": "7.28.0"
   },
   "dependencies": {
-    "emoji-mart": "^3.0.1",
+    "emojis-list": "^3.0.0",
+    "node-color-log": "^7.0.0",
     "node-emoji": "^1.11.0"
   }
 }

@@ -1,2 +1,3 @@
-const a = 1;
-console.log(a);
+import colors from 'color-name';
+
+console.log(colors);
